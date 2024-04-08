@@ -1,3 +1,2 @@
 # IST103-ClonePage
-[<img src="https://ibb.co/PMB42jP">
-](https://ibb.co/PMB42jP)
+![image](https://github.com/bgrhzl/IST103-ClonePage/assets/53261898/ef00e1d0-5030-4c1d-951a-29b20e514176)
